@@ -18,12 +18,16 @@ This is a real-time industrial vision-based quality control system designed for 
 
 ---
 
-## System Architecture
+## Images
 
 ![Nails_image](https://github.com/user-attachments/assets/ad39508f-dca3-4df2-b568-018112d82615)
 
 
 ![Stringer-topboard-alignemnt-measurement](https://github.com/user-attachments/assets/d0af541b-5bd4-4a47-9c22-8f210f88f5e0)
+
+
+![Screenshot 2025-06-28 194727](https://github.com/user-attachments/assets/44c8ff6e-1b94-46ff-82ee-a88e7ae15b26)
+
 
 ---
 
