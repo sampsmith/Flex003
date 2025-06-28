@@ -1,4 +1,4 @@
-# Parallel Detector Quality Control System
+# Flex003
 
 ## Overview
 This is a real-time industrial vision-based quality control system designed for detecting defects on pallet production lines. The system integrates PLC-controlled relay hardware, multi-camera vision setups, and custom backend software with a GUI for live monitoring and defect logging.
