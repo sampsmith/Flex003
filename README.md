@@ -53,8 +53,6 @@ This is a real-time industrial vision-based quality control system designed for 
 ---
 
 ## Demo
-*(Optional: Insert YouTube unlisted video link here)*
-
 If you would like to see the system in action, please contat me for a demo.
 
 ---
